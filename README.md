@@ -1,4 +1,4 @@
-<h1 align="center">e-commerce-backend</h1>
+<h1 align="center">Workout Tracker</h1>
   
 ![badge](https://img.shields.io/badge/license-Unlicense-brightgreen) </br> 
 
