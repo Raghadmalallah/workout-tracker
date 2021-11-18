@@ -17,6 +17,8 @@ The app will keep track of every exercise for the customer workout. The app dash
 - node seeders/seed.js
 - npm start</br>
 
+click here to open the app [https://workout-tracker-riri.herokuapp.com/]
+
 ## youtube
 ### A walkthrough video that demonstrates the functionality of 
 [https://youtu.be/1l0Zhd63dhk]()
