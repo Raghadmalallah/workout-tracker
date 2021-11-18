@@ -10,7 +10,7 @@
 </br>
 
 ## Description
-
+The app will keep track of every exercise for the customer workout. The app dashboard will display a weekly summary and add multiple user choices of exercise with details.
 
 ## Installation
 - npm install
@@ -19,7 +19,7 @@
 
 ## youtube
 ### A walkthrough video that demonstrates the functionality of 
-
+[https://youtu.be/1l0Zhd63dhk]()
 </br>
 
 ## Contact
